@@ -4,5 +4,3 @@ print mani
 this is ansible
 devops terraform
 this is datadog
-this
-ansible
